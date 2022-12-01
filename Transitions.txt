@@ -1,0 +1,18 @@
+CUT TO - Cut to the next shot
+CUT AWAY - Cut to an insersion shot and back to the shot
+CROSS CUTS - Cut back & forth between 2 locations
+
+MATCH CUT - Match the ending of the current shot and the begining of the next shot
+INVICI CUT - Cut with a masking of movement
+
+JUMP CUT - Hard cuts of a same shot
+SMASH CUT - Cut with a smashing action
+
+FADE CUT - Fade out from current shot and fade in to the next shot
+DISSOLVE CUT - Dissolove current shot in to the next shot
+
+WIPE CUT - Wipe the shot to left, right, up or down to the next shot
+IRIS CUT - Cut to next shot using a shape
+
+J CUT - Audio of next shot comes before the Video
+L CUT - Video of next shot comes before the Audio

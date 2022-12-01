@@ -1,0 +1,14 @@
+Mise En Sence  = Set + Lights + Actors + Costume + Music for a scene
+
+Leitmotif = Recurring music, color, light etc. for an event or character
+MacGuffin = Something important but can be replaced by something more important
+
+Red Herring = Misleading the audiance
+Rashamon Effect = Showing the same act in different POV
+Epilogue = Screenwriter's way to end the movie or telling what happened then 
+	   (Text, Voice over, X Y Later Scene, Scene/ Animation/ Stills with credits, Mid/ Post Credits)
+
+Digetic = Everything (like sound) that characters can experience (Eg. Thunder, Fire, Insects)
+Non-Digetic = Everything that only audience can experience (Eg. BGM, SFX)
+Trans-Digetic = Non-Digetic that is reveled to be Digetic (Eg. BGM turns to radio music)
+

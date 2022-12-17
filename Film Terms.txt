@@ -12,3 +12,4 @@ Digetic = Everything (like sound) that characters can experience (Eg. Thunder, F
 Non-Digetic = Everything that only audience can experience (Eg. BGM, SFX)
 Trans-Digetic = Non-Digetic that is reveled to be Digetic (Eg. BGM turns to radio music)
 
+Deus ex Machina = God comes to save the day (Some events coincidence or accident helps the protagonist)

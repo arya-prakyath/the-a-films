@@ -18,7 +18,7 @@ LIGHT
 	reflector/ mirror
 	bounce	
 	diffuser	
-	blocker
+	flags
 	clamps
 
 PROPS

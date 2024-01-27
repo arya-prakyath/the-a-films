@@ -1,0 +1,18 @@
+2 hours 30 mins
+	150 mins
+
+Sequence - 15 mins
+(150 mins / 15 min) - 10 Sequences
+
+Sequence - 1 - Trajec Backstory which will connect to the hero
+Sequence - 2 - Enter the hero, Stand, Love
+Sequence - 3 - Hero's first challenge, Hero wins after loosing
+Sequence - 4 - Hero learns the backstory
+Sequence - 5 - Hero looses something he loves, Hero looses
+Sequence - 6 - Enter the villan, The propoganda and motivation
+Sequence - 7 - Hero's revenge, Hero meets pre villan
+Sequence - 8 - Hero's plan to win, Hero's adventure
+Sequence - 9 - Hero meets the villan
+Sequence - 10 - Hero defeats the villan
+
+ 

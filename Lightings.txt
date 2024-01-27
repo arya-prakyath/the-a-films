@@ -1,0 +1,50 @@
+Types of lights:
+	Natural - Sunlight, Moonlight, Firelight, Thunder
+	Artificial - Manmade using electricity
+		Ambient - Lights on location (Street lamps)
+		Practical - Light in frame
+		Motivated - Cause of light (Candle)
+---------------------------------------------------------------------
+High key - Difference b/w light and dark is min (Happy)
+Low Key	 - Difference b/w light and dark is max (Intense)
+---------------------------------------------------------------------
+Varieties :
+	Tungsten - Warm light
+	HMI - Cool/ Day light
+	Fluorescent - Tubelight
+	Kino Flos - Collection of tubes
+	LED - RGB/ colors
+---------------------------------------------------------------------
+Gels - Sheets to add color to light
+Diffusors - To Scatter and Soften light
+	Soft box, Diff paper, Silk cloth, Fog, Dust, Smoke, Cloud
+Bounce - Diffuse and redirect light
+	Reflector, Bead board, 
+Flags - To block the light
+	Black screens or boards, Barn doors on light
+Egg crates - To direct light and prevent in unwanted areas
+Cookies - Boards with pattern to add texture (Window shape)
+---------------------------------------------------------------------
+Key light - Primary light on the subject
+Fill light - Fill the shadows caused by key
+Negative Fill - Creates more shadows
+Back light - Creates edge to seperate subject from background
+	Edge lights/ Kickers - Edge of a particular area like ears
+	Hair lights - Edges of the hair
+Catch/ Eye light - Refelction in the eyes to add life
+---------------------------------------------------------------------
+Lighting Techniques
+	Rembrandt - Key light higher, Fill light dimmer 
+		Creates a triangle on neg side. Creates intense
+	Butterfly/ Paramount - Key at high infront
+		Butterfly shape under the nose. Shows Glamour
+	Loop - Key light at 45°
+		Elongates the face
+	Split - Key light at eye, No Fill light
+		Adds contrast and mystery
+	Overhead/ Top - Over head of subject hides eyes
+		Helpless or Lifeless
+	Underhead - Under the face
+		Adds horror and scare
+		
+

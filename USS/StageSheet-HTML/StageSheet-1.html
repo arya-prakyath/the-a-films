@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>StageSheet Template</title>
+    <style>
+      .StageSheet-Container {
+        max-width: 1200px;
+        margin: auto;
+        padding: 10px;
+        padding-top: 0px;
+        border: 1px solid black;
+        font-size: 12px;
+        font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+        color: black;
+      }
+
+      .StageSheet-Top-Grid {
+        table-layout: fixed;
+        margin-top: 25px;
+        text-align: left;
+      }
+
+      .StageSheet-Grid {
+        table-layout: fixed;
+        margin-top: 25px;
+        text-align: left;
+      }
+
+      .StageSheet-Grid-XSm {
+        width: 80px !important;
+      }
+
+      .StageSheet-Grid-Sm {
+        width: 90px !important;
+      }
+
+      .StageSheet-Grid-Md {
+        width: 110px !important;
+      }
+
+      .StageSheet-Grid-Lg {
+        width: 140px !important;
+      }
+
+      .StageSheet-Grid-XLg {
+        width: 160px;
+      }
+
+      .StageSheet-Grid-XXLg {
+        width: 180px;
+      }
+
+      tr,
+      th,
+      td {
+        padding: 5px;
+        /* border: 1px solid #dee2e6; */
+        text-align: left;
+        border-left: 1px solid #dee2e6;
+        border-top: 1px solid #dee2e6;
+      }
+
+      .border-right {
+        border-right: 1px solid #dee2e6;
+        border-right: 1px solid #dee2e6;
+      }
+
+      .border-bottom {
+        border-bottom: 1px solid #dee2e6;
+      }
+
+      .br {
+        border-left: 1px solid #dee2e6;
+      }
+
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+
+      .empty-row {
+        height: 15px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="StageSheet-Container">
+      <table class="StageSheet-Grid" cellspacing="0" cellpadding="0">
+        <tr>
+          <th class="StageSheet-Grid-XXLg border-bottom">Proppant</th>
+          <th class="StageSheet-Grid-XXLg border-bottom">Total Weight Needed</th>
+          <th class="StageSheet-Grid-XXLg border-bottom">Sand Pumped</th>
+          <th class="StageSheet-Grid-XXLg border-bottom border-right">
+            Cumulative Box Weight
+          </th>
+        </tr>
+
+        {{#each propDetails}}
+        <tr>
+          <td class="StageSheet-Grid-XSm">{{proppantName}}</td>
+          <td class="StageSheet-Grid-Sm">{{totalWeightNeeded}}</td>
+          <td class="StageSheet-Grid-Sm">{{sandPumped}}</td>
+          <td class="StageSheet-Grid-Lg">{{totalBoxWeight}}</td>
+        </tr>
+        {{/each}}
+      </table>
+
+      <table class="StageSheet-Grid" cellspacing="0" cellpadding="0">
+        <tr>
+          <th class="StageSheet-Grid-XSm border-bottom">Station #</th>
+          <th class="StageSheet-Grid-Sm border-bottom">Box</th>
+          <th class="StageSheet-Grid-Sm border-bottom">Weight</th>
+          <th class="StageSheet-Grid-Sm border-bottom">Type</th>
+          <th class="StageSheet-Grid-XLg border-bottom">Pad Location</th>
+          <th class="StageSheet-Grid-Md border-bottom">Remaining Weight</th>
+          <th class="StageSheet-Grid-Md border-bottom">PO #</th>
+          <th class="StageSheet-Grid-Md border-bottom">Ticket #</th>
+          <th class="StageSheet-Grid-Md border-bottom border-right">Load #</th>
+        </tr>
+
+        {{#each details}}
+        <tr>
+          <td class="StageSheet-Grid-XSm">{{Station}}</td>
+          <td class="StageSheet-Grid-Sm">{{BoxDesc}}</td>
+          <td class="StageSheet-Grid-Sm">{{BoxWeight}}</td>
+          <td class="StageSheet-Grid-Lg">{{Proppant}}</td>
+          <td class="StageSheet-Grid-XLg">{{Location}}</td>
+          <td class="StageSheet-Grid-XLg">{{BoxWeightRemaining}}</td>
+          <!-- {{#if IsFirstItem}} -->
+          <!-- {{/if}} -->
+          <td class="StageSheet-Grid-Lg">{{BOL}}</td>
+          <td class="StageSheet-Grid-Md">{{SandTicket}}</td>
+          <td class="StageSheet-Grid-Md border-bottom border-right">
+            {{LoadId}}
+          </td>
+        </tr>
+        {{/each}}
+      </table>
+    </div>
+  </body>
+</html>

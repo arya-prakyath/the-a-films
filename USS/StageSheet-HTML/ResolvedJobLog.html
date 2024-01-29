@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css">
+        body {
+            font-family: sans-serif;
+        }
+
+        .Table {
+            table-layout: fixed;
+            border: 3px solid black;
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        tr,
+        td,
+        th {
+            border: 1px solid black;
+            font-size: 12px;
+            padding-right: 5px;
+            padding-top: 3px;
+            padding-bottom: 3px;
+            padding-left: 5px;
+        }
+
+        .Title {
+            height: 50px;
+            border: 3px solid black;
+            background-color: #908989;
+            font-size: 15px;
+        }
+
+        .SubTitle {
+            height: 30px;
+            border-top: 2px solid black;
+            background-color: #d5cfcf;
+            font-size: 13px;
+        }
+
+        .Border-Top {
+            border-top: 2px solid black !important;
+        }
+
+        .Border-Bottom {
+            border-bottom: 2px solid black !important;
+        }
+
+        .Key {
+            font-weight: bold;
+        }
+
+        .Value {
+            text-align: center;
+        }
+
+        .RightAlign {
+            text-align: right;
+        }
+
+        .Key-RightAlign {
+            font-weight: bold;
+            text-align: right;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="Container">
+        <table class="Table">
+            <thead>
+                <tr>
+                    <th colspan="4" class="Title">{{jobLogType}} Alert</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td class="Key">Pad Name</td>
+                    <td class="Value">{{wellName}}</td>
+                    <td class="Key">Job Log Issye</td>
+                    <td class="Value">{{jobLogIssue}}</td>
+                </tr>
+                <tr>
+                    <td class="Key">Start Date</td>
+                    <td class="Value">{{startDate}}</td>
+                    {{#unless isSpills}}
+                    <td class="Key">End Date</td>
+                    <td class="Value">{{endDate}}</td>
+                    {{/unless}}
+                </tr>
+                <tr>
+                    {{#unless isSpills}}
+                    <td class="Key">Estimated Downtime</td>
+                    <td class="Value">{{estimatedDowntime}}</td>
+                    {{/unless}}
+                    <td class="Key">Stage</td>
+                    <td class="Value">{{stage}}</td>
+                </tr>
+                <tr>
+                    <td class="Key">Status</td>
+                    <td class="Value">{{status}}</td>
+                </tr>
+                {{#if isSpills}}
+                <tr>
+                    <td class="Key">Load ID</td>
+                    <td class="Value">{{loadId}}</td>
+                    <td class="Key">Location Lofa</td>
+                    <td class="Value">{{locationLofa}}</td>
+                </tr>
+                <tr>
+                    <td class="Key">Amount</td>
+                    <td class="Value">{{amount}}</td>
+                    <td class="Key">Root Cause</td>
+                    <td class="Value">{{rootCause}}</td>
+                </tr>
+                {{/if}}
+                <tr>
+                    <td class="Key">Corrective Action</td>
+                    <td class="Value" colspan="3">{{correctiveAction}}</td>
+                </tr>
+                <tr>
+                    <td class="Key">Notes</td>
+                    <td class="Value" colspan="3">{{notes}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

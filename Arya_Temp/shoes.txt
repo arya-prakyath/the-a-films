@@ -1,0 +1,43 @@
+FLIP-FLOPS
+	Uncle flops
+	Sandals
+	Flip Flop - Reebok 
+	Hawian Chappal
+
+LOAFERS
+	Denim
+	Grey
+	Black
+
+SNEAKERS
+	Black - Bacca Bucci
+	White - Roadster
+
+RUNNING SNEAKERS
+	Black - Adidas
+	Red - Reebok
+	
+ATHLEZIERS
+	Grey - Bacca Bucci
+
+FORMALS
+	Laced Black
+	Slipon Brown
+
+TRADITIONAL
+	Brown
+
+
+WANT
+	loafer black
+	sneaker black	
+	sneaker tan
+	sneaker brown
+	running black
+	brown boot
+	funcky shoe
+	f Slipon Black
+	f Laced Brown
+	f Brown Monk Strap
+	Black 
+

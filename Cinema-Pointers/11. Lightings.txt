@@ -19,10 +19,10 @@ Gels - Sheets to add color to light
 Diffusors - To Scatter and Soften light
 	Soft box, Diff paper, Silk cloth, Fog, Dust, Smoke, Cloud
 Bounce - Diffuse and redirect light
-	Reflector, Bead board, 
+	Reflector, Bead board
 Flags - To block the light
 	Black screens or boards, Barn doors on light
-Egg crates - To direct light and prevent in unwanted areas
+Egg crates - To direct light and prevent light in unwanted areas
 Cookies - Boards with pattern to add texture (Window shape)
 ---------------------------------------------------------------------
 Key light - Primary light on the subject

@@ -1,11 +1,30 @@
-1. Bhootha Mandala Madyadolage/ Antharalokada Chayeyalli
-2. Vivartha 2
-3. High Up There
-4. Vivartha 3
-5. Backrooms - 1: Beyond the Matrix
-6. See Saw
-7. Backrooms - 2: Escape the Eclipse
-8. Killers of fox/ Filmaker on steroids (Epilapsey one)
-9. Backrooms - 3: Back to the Horizon/Other side
-10.Kanasina Kunike
-11.The killer of the foxes (A girl who gets bullied is a serial killer)
+1.  Alakshya 		- Comedy
+2.  Tharpana 		- Psych Horror
+3.  Vivartha 2 		- Monster Horror
+4.  The Camp 		- Slasher Horror
+5.  High Up There 	- Comedy Horror
+5.  Vivartha 3		- Monster Horror
+6.  The Angels		- Paranormal Horror
+7.  Kanasina Kunike	- Cosmic Horror
+8.  Backrooms - 1: Beyond the Matrix
+9.  Filmaker on steroids (Epilapsey one)
+10. See-Saw (Blind girl and Deaf Man) - Romcom
+11. Backrooms - 2: Escape the Eclipse
+12. The killer of the foxes (A girl who gets bullied is a serial killer)
+13. Backrooms - 3: Back to the Horizon/Other side
+14. Hastha		- Body Horror
+15. The Room		- Demonic Horror
+16. The Helpi		- Techno Horror
+17. Birthday Delivery	- Body Horror
+18. A Break In		- Thriller Horror
+
+
+
+Slasher		-	Body
+Monster		-	Demonic
+Paranormal	- 	Found footage
+Psychological	-	Comedy
+Cosmic		-	Extraterrestrial
+Techno 		-	Eco
+Folklore	-	Thriller Horror
+

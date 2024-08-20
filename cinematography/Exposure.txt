@@ -1,0 +1,33 @@
+Exposure - Tells how much light is exposed to the camera
+	Represented by Exposure triangle
+	Make sure Exposure meter is near zero - MM±0.0
+
+Exposure Triangle
+	Shutter speed - Speed at which shutter opens
+		Represented by Shutter per second = 1/100
+		'>' = Less motion blur - Less Light
+	Aperture - How much light should enter the sensor
+		Represented by f-stops = f2.5
+		'>' = Deeper the focus - Less Light
+	ISO - Digital Brightness
+		Represented by number - 1500
+		'>' = More Light - More Grains
+
+Lighting
+	Key light (half)
+	Camera on neg fill (shadow side)
+	Fill light (other half)
+	Back light (edge light)
+	Catch light (eye light)
+	Background light (comp to key)
+	Motivated light
+
+Composition
+	Give head room - Space above head
+	Give face room - For closeups give space towards the subjects view
+	Fill the frame - Keep both left & right side filled/ balanced
+	Rule of thirds - Place subject in the intersection points of  grid #
+	Golden triangle
+	Spiral
+	Leading Lines - Lines pointing to subject
+

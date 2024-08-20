@@ -4,8 +4,8 @@
 Sequence - 15 mins
 (150 mins / 15 min) - 10 Sequences
 
-Sequence - 1 - Trajec Backstory which will connect to the hero
-Sequence - 2 - Enter the hero, Stand, Love
+Sequence - 1 - Backstory which will connect to the hero
+Sequence - 2 - Enter the hero, Stance, Love
 Sequence - 3 - Hero's first challenge, Hero wins after loosing
 Sequence - 4 - Hero learns the backstory
 Sequence - 5 - Hero looses something he loves, Hero looses

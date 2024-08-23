@@ -1,0 +1,33 @@
+1.  Vivartha		- Monster Horror
+2.  Alakshya 		- Comedy
+3.  Tharpana 		- Psych Horror
+4.  Vivartha 2 		- Monster Horror
+5.  The Lost Lodge	- Paranormal Horror
+6.  Etharadhol		- Comedy Horror
+7.  Vivartha 3		- Monster Horror
+8.  Hastha		- Body Horror
+9.  Kanasina Kunike	- Cosmic Horror
+10. Backrooms 1: Beyond the Matrix
+11. Filmaker on steroid	- Epilapsey
+12. See-Saw		- EmoRomcom
+13. Backrooms 2: Escape the Eclipse
+14. The killer of the foxes
+15. The Angels Camp	- Slasher Horror
+16. Backrooms 3: Back to the Horizon/Other side
+17. The Room		- Demonic Horror
+18. The Helpi		- Techno Horror
+19. Birthday Delivery	- Body Horror
+20. A Break In		- Thriller Horror
+21. The Last Delivery	- Paranormal Horror
+22. The Bachelors	- Body Horror
+23. The Train		- Paranormal Horror
+24. The Treasure Hunt	- Thriller Horror
+
+Slasher		-	Body
+Monster		-	Demonic
+Paranormal	- 	Found footage
+Psychological	-	Comedy
+Cosmic		-	Extraterrestrial
+Techno 		-	Eco
+Folklore	-	Thriller Horror
+

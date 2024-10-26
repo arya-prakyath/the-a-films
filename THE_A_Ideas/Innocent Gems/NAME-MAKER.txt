@@ -1,0 +1,36 @@
+A  ->	V
+B  ->	
+C  ->	MOON
+D  ->	MOON
+E  ->	3
+F  ->	L
+G  ->	9
+H  ->	H
+I  ->	L
+J  ->	P
+K  ->
+L  ->	7
+M  ->	W
+N  ->	N
+O  ->	O
+P  ->	D
+Q  ->	O
+R  ->	
+S  ->	S
+T  ->	
+U  ->	N
+V  ->	A
+W  ->	M
+X  ->	X
+Y  ->
+Z  ->	Z
+
+K	I	R	A	N
+(K)	(L,I)	(R)	(A,V)	(U,N)
+
+K	A	R	A	N
+(K)	(A,V)	(R)	(A,V)	(U,N)
+
+T 	A	R	U	N
+(T)	(A,V)	(R)	(U,N)	(N,U)
+

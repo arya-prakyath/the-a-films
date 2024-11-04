@@ -1192,9 +1192,11 @@ The CBI agent takes a deep breath and smiles in happiness
 	Jasper reveals that she was a CBI informant all along
 	Arjun escapes the building and gets into a van
 	Police chases him in car
-	Arjun stops at a point surronded by police
-	Police cars behind him and a barricade with police cars infront of him
-	Arjun is tensed and the police get down from the car and they slowly move towards him
+	Arjun stops at a tri-point surronded by police
+	Arjun looks around tensed
+	After a while, the van hits the wall in the front
+	Two Police cars are behind him and two each on his left and right
+	Police get down from the car and they slowly move towards him
 	As the police move closer the van in blasts and the CBI sees a body burning in the car
 	Arjun speaks to Jasper in a hotel and says Arjun dies and his DNA matches the body's DNA
 	Jasper then says my work here is done and please do not contact me again
@@ -1229,13 +1231,19 @@ The CBI agent takes a deep breath and smiles in happiness
 	Jasper and Arjun are celebrating their account opening
 	CBI with police attacks and Arjun runs
 	Arjun stops the van and puts a body covered in his blood in the drivers seat
-	Arjun then gets into a sewer from the vans base
+	Arjun then gets out of the van and hides in the terrace of a building
+	He watches the police closing on from the terrace
 	Arjun calls a number in a phone
 	He says please god let no one be near the van and hits call
 	The van blasts
-	Arjun then follows GPS to track a bag and clothes
-	He dresses up and comes out of the sewer
-	He takes out a perfume and sprays it all over him
+	ONE SHOT:
+	Arjun then walks and jumps from one terrace to the next [Tilt Up -> Pull Out -> Trucking]
+	Arjun wears a headlamp and gets down from one of the buidlings [Arc -> Boom Down]
+	Arjun walk towards a man-hole, opens it and gets inside it [Fwd Tracking -> Tilt Down -> Push In]
+	Arjun changes into something formal and begins to walk [Bwd Tracking]
+	Arjun takes a left and walks up the stairs [Pan Right -> Fwd Tracking]
+	Arjun comes out to the road takes out a perfume and sprays it all over him [Pull Out -> Pan -> Push In]
+	END ONE SHOT:
 	Arjun then enters the swiss bank
 	He says he needs to tranfer money
 	He goes into a tranfer booth where a teller is sitting with a tranfer system suitcase

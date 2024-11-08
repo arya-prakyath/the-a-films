@@ -1047,7 +1047,22 @@ Then she finds out Sunil had put a story in this Bar and that is how she found h
 Arjun catches Sunil but Jasper also wants Sunil
 Arjun says I just need an item that he has then she can have him
 Arjun takes the diamonds and hands over Sunil to Jasper
-Jasper gives her PI card to Arjun and says if you need PI services you can contact me 
+Jasper gives her PI card to Arjun and says if you need PI services you can contact me
+
+A counterfeit cash is found by a bar owner
+Investigation reveals that it was always a cab driver who gave the 500 bill
+Cab driver says he was paid in cash by the owner
+The owner is tracked, and he reveals that he won the money in a casino in Goa
+Vasanth is sent to the casino along with Ricky to investigate it
+Vasanth and Ricky together find out that Casino is indeed dealing with fake currency
+Vasasnth gets a call from his boss that many such counterfiet cases were reported
+The boss say that NIA is already investigating the case and an agent will meet you at the casino
+Vasanth meets Ananya, the NIA agent
+
+Fake notes are printed in a factory in a remote location
+The notes are stored inside paintings
+Paintings are sold but under it the fake notes too
+The notes are bought to the casino to start the circulation
 
 [---
 	Arjun and Jasper are stuck in Maldives
@@ -1354,6 +1369,7 @@ ADD SCENE
 	A FIGHT B/W ARJUN AND JASPER
 	AIRPLANE ESCAPE SCENE
 	PARKOUR CHASE SCENE
+	CALL A NUMBER FROM THE PHONE TO FIND OUT THE PHONES DETAILS
 
 
 THE-CLIMAX
@@ -1370,21 +1386,3 @@ THE-CLIMAX
 	Arjun says why will I feel sad
 	Jasper says but I feel sad
 	A silhouette shot shows Jasper shoots Arjun on the head
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

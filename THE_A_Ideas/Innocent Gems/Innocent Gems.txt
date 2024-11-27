@@ -1199,6 +1199,11 @@ He eats the body of the bully who ate his food
 	[--- What happens to the delivery guy ---]
 	[--- Drinking in Public Laws ---]
 
+	I have the main disk and you have a fake
+	I knew you would say that so I actually gave you the fake
+	Gives the money
+	The one you have is actually the real one I did not think you would cheat
+
 	They meet the guy who gave them the mission
 	Arjun hands over the hard disk and they check the disk
 	The guy confirms the data and gives a bag filled with cash to Arjun and Jasper
@@ -1374,7 +1379,8 @@ ADD SCENE
 	AIRPLANE ESCAPE SCENE
 	PARKOUR CHASE SCENE
 	CALL A NUMBER FROM THE PHONE TO FIND OUT THE PHONES DETAILS
-
+	BOAT CHASE SCENE BY VASANTH TO RESCUE ANANYA
+	ARJUN TIED DOWN - THROWS SHOTGUN TO JASPER - SHE LOADS IT USING MOUTH AND SHOOTS THROUGH THE DOOR	
 
 THE-CLIMAX
 	In one scene Jasper asks Arjun how she got that close to Broker and Cult owner

@@ -1109,6 +1109,7 @@ He eats the body of the bully who ate his food
 		Casino Heist	 - Play and win a poker game - They do not know how to play
 		Tech Heist	 - Steal a piece of software - Idu... Idu chanagiradu
 	(or) The one who gives the mission is ex-worker at the firm who stole his work of an IPA algorithm
+		He needs money for his sick wifes treatment
 	The Mission:
 	On success we get 80,00,000 Rf
 	Mission is to steal a hardisk from the server room on the 13th floor
@@ -1135,8 +1136,11 @@ He eats the body of the bully who ate his food
 	Arjun signs to Jasper and Jasper sitting in the next bench comes there
 	Jasper asks the delivery guy for some location and the guy begins to flirt
 	Arjun quickly injects the Tranquilizer and the delivery guy goes unconsious
-	Arjun holds him and says let me take you to the hospital and takes him away
-	Arjun puts on the delivery guys shirt and takes his bike
+	Arjun takes his phone and puts in a usb to copy data
+	Arjun then inserts it into his phone	
+	Arjun injects the guy with adrenaline injection and he wakes up suddenly
+	Jasper says thank you and she leaves
+	Arjun puts on the delivery guys shirt and waits for an order notification
 	Arjun comes inside the campus and sees the taxi block
 	He takes out a ciggratte pack with only 2 ciggrattes
 	he takes out one and puts it in his mouth
@@ -1380,7 +1384,8 @@ ADD SCENE
 	PARKOUR CHASE SCENE
 	CALL A NUMBER FROM THE PHONE TO FIND OUT THE PHONES DETAILS
 	BOAT CHASE SCENE BY VASANTH TO RESCUE ANANYA
-	ARJUN TIED DOWN - THROWS SHOTGUN TO JASPER - SHE LOADS IT USING MOUTH AND SHOOTS THROUGH THE DOOR	
+	ARJUN IS KIDNAPED BY THE MAFIA - JASPER COMES IN A CAR AND SAVES HIM
+	ARJUN TIED DOWN - THROWS SHOTGUN TO JASPER - SHE LOADS IT USING MOUTH AND SHOOTS THROUGH THE DOOR
 
 THE-CLIMAX
 	In one scene Jasper asks Arjun how she got that close to Broker and Cult owner

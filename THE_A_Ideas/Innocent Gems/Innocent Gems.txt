@@ -983,6 +983,9 @@ She finds a tape that records the killing of her mother
 She gets a PI license
 She calls her friends to know the location of the drug dealers
 She goes there and kills everyone involved but one guy escapes
+This guy hides behind a closed door with a glass gap 
+He watches Jasper kill others with guns and weapons
+The guy has a stich mark on his head
 Blood splatters on the calender marking the dates --FADE TO
 She is standing infront of her mother's grave and it has the same date 1 year back
 
@@ -1055,6 +1058,7 @@ Cab driver says he was paid in cash by the owner
 The owner is tracked, and he reveals that he won the money in a casino in Goa
 Vasanth is sent to the casino along with Ricky to investigate it
 Vasanth and Ricky together find out that Casino is indeed dealing with fake currency
+Also the casino is used for money laundering (cash from drugs and arms sales)
 Vasasnth gets a call from his boss that many such counterfiet cases were reported
 The boss say that NIA is already investigating the case and an agent will meet you at the casino
 Vasanth meets Ananya, the NIA agent
@@ -1108,8 +1112,10 @@ He eats the body of the bully who ate his food
 		Jewelry Heist	 - Blue Sapphire Jewelry     - Lazer tight security and silent alarm system
 		Casino Heist	 - Play and win a poker game - They do not know how to play
 		Tech Heist	 - Steal a piece of software - Idu... Idu chanagiradu
-	(or) The one who gives the mission is ex-worker at the firm who stole his work of an IPA algorithm
-		He needs money for his sick wifes treatment
+	(or) The one who gives the mission is ex-worker at the firm who stole his hardisk 
+	     because he designed a RPA algorithm using his companies system 
+	     but it also has an algorithm that can mine crypto coins
+	     Also it is a physical digital wallet with crypto coins [Private Keys]
 	The Mission:
 	On success we get 80,00,000 Rf
 	Mission is to steal a hardisk from the server room on the 13th floor
@@ -1401,3 +1407,11 @@ THE-CLIMAX
 	Arjun says why will I feel sad
 	Jasper says but I feel sad
 	A silhouette shot shows Jasper shoots Arjun on the head
+
+MONEY
+500 Crores in a bank in Zurich
+20 Crores to open an account in Swiss bank [Diamonds]
+
+
+
+

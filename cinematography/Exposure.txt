@@ -4,12 +4,12 @@ Exposure - Tells how much light is exposed to the camera
 
 Exposure Triangle
 	Shutter speed - Speed at which shutter opens
-		Represented by Shutter per second = 1/100
+		Represented by nth of a second = 1/100
 		'>' = Less motion blur - Less Light
-	Aperture - How much light should enter the sensor
+	Aperture - How much light will enter the sensor
 		Represented by f-stops = f2.5
-		'>' = Deeper the focus - Less Light
-	ISO - Digital Brightness
+		'>' = Shallower the focus - More Light
+	ISO - How much sensitive is the sensor
 		Represented by number - 1500
 		'>' = More Light - More Grains
 
@@ -19,7 +19,7 @@ Lighting
 	Fill light (other half)
 	Back light (edge light)
 	Catch light (eye light)
-	Background light (comp to key)
+	Background light (compliment to key)
 	Motivated light
 
 Composition

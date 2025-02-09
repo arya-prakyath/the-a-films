@@ -1,0 +1,19 @@
+Init - Upto 10 Films
+	--- Till Investors gets 150% of the Budget ---
+		5  - Channel Mgnt
+		50 - Investors
+		15 - Director
+		10 - Writers
+		10 - Camera Man
+		10 - Actors
+		
+	
+	--- Till Investors gets 200% of the Budget ---
+		6  - Channel Mgnt
+		12 - Investors
+		20 - Director	
+		15 - Writers
+		12 - Camera Man
+		20 - Actors
+		15 - Editor
+		

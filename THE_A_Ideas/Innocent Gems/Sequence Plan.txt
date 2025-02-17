@@ -1,0 +1,32 @@
+2 hours 30 mins
+	150 mins
+
+Sequence - 15 mins
+(150 mins / 15 min) - 10 Sequences
+
+Sequences - NOT IN ORDER (for now):
+Sequence - 1 - Arjun's Arrest
+Sequence - 2 - Arjun's Case and Investigation
+Sequence - 3 - Arjun meets Jasper
+Sequence - 4 - Arjun's BG and Anthony's Business
+Sequence - 5 - Anthony gets a Consultant
+Sequence - 6 - The Cult
+Sequence - 7 - CBI Vasanth in Action
+Sequence - 8 - The Diamond 
+Sequence - 9 - Vasanth meets Jasper
+Sequence - 10 - Jasper BG
+Sequence - 11 - The Crypto Heist
+Sequence - 12 - The Swizz
+
+Sequence - 1 - Backstory which will connect to the hero
+Sequence - 2 - Enter the hero, Stance, Love
+Sequence - 3 - Hero's first challenge, Hero wins after loosing
+Sequence - 4 - Hero learns the backstory
+Sequence - 5 - Hero looses something he loves, Hero looses
+Sequence - 6 - Enter the villan, The propoganda and motivation
+Sequence - 7 - Hero's revenge, Hero meets pre villan
+Sequence - 8 - Hero's plan to win, Hero's adventure
+Sequence - 9 - Hero meets the villan
+Sequence - 10 - Hero defeats the villan
+
+ 

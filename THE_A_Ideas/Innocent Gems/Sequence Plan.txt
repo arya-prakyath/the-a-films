@@ -13,12 +13,12 @@ Sequence - 4 - Arjun's BG and Anthony's Business
 	01 - Arjun's family
 	02 - Arjun grows with bad luck
 	03 - Arjun is a waiter with bad luck
-	04 - Anthony and nemesis
+	04 - Anthony, nemesis and kidnap
 	05 - Anthony meets Arjun
-
-	06 - Anthony and business 
-	07 - Arjun is sent to prison
+	06 - Anthony and business
+	07 - Arjun's trial
 	08 - Arjun is in the prison
+	09 - Anthony ends the nemesis
 	09 - Arjun fights Matke
 
 Sequence - 5 - Anthony gets a Consultant

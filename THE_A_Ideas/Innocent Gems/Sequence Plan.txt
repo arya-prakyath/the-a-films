@@ -9,18 +9,24 @@ Sequence - 1 - Arjun's Arrest
 Sequence - 2 - Arjun's Case and Investigation
 Sequence - 3 - Arjun meets Jasper
 
-Sequence - 4 - Arjun's BG and Anthony's Business
+Sequence - 4 - Arjun and Anthony
 	01 - Arjun's family
 	02 - Arjun grows with bad luck
 	03 - Arjun is a waiter with bad luck
-	04 - Anthony, nemesis and kidnap
-	05 - Anthony meets Arjun
+	04 - Anthony meets Suraj after Chandu
+	05 - Anthony is kidnapped in jail
+	06 - Arjun helps Anthony to escape
 	06 - Anthony and business
-	07 - Arjun's trial
+	07 - Vicky takes care of Anthony's kidnappers
+	08 - Arjun's trial
 	08 - Arjun is in the prison
-	09 - Anthony ends the nemesis
 	09 - Arjun fights Matke
-
+	10 - Vicky destroys Soma's crew
+	11 - Anthony executes Soma
+	12 - Arjun befriends Matke and Mayavi
+	13 - Arjun meets Anthony again
+	14 - Arjun plans again
+	15 - Arjun meets Ashwa
 Sequence - 5 - Anthony gets a Consultant
 Sequence - 6 - The Cult
 Sequence - 7 - CBI Vasanth in Action

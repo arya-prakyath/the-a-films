@@ -1,13 +1,29 @@
-Villian		 - Kills people for no reason
-No Villian 	 - Story of how dogs live
+Villain:
+	A Bad guy in the story.
+	Eg - Kills people for no reason
+No Villain:
+	No Bad guys in the story.
+	Eg - Story of how dogs live
 
-Anti Villian 	 - He becomes evil when his parents die in gov hospital
-Anti Hero 	 - Thanos snaps half the universe to save the other half
+Anti Villain:
+	A Good guy who turned into a Bad guy.
+	Eg - Guy gets evil after his parents die in gov hospital
+Anti Hero:
+	A Bad guy who thinks he is the Good guy
+	Eg - Thanos snaps half the universe to save the other half
 
-False Villian 	 - Snape is shown as a villian till climax but is not
-Hidden Villian 	 - Dhani is shown as a good person till climax but is not
+False Villain:
+	A Good guy who is portrayed as a Bad guy. 
+	Eg - Snape is shown as a villian till climax but is not
+Hidden Villain:
+	A Bad guy who is portrayed as a Good guy. 
+ 	Eg - Dhani is shown as a good person till climax but is not
 
-Inanimate Villan - Robot, Disease, Nature
-Inner Villian 	 - Upendra kills himself in the mirror
+Inanimate Villain:
+	The Bad guy is not a human
+	Eg - Robot, Disease, Nature
+Inner Villain: 
+	The Good guy is the Bad guy for himself
+	Eg - Upendra kills himself in the mirror
 
 

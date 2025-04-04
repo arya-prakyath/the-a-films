@@ -1,33 +1,33 @@
 CAMERA
 	Camera
-	shallow (55mm)
-	deep	(16mm)
-	sunshade
-	filters/ ND filter
-	batteries(2)
+	Shallow (55mm)
+	Deep	(16mm)
+	Sunshade
+	Filters/ ND Filter
+	Batteries(2)
 
 RIGS
-	tripod
-	gimbal
-	batteries(2)
-	drone
+	Tripod
+	Gimbal
+	Batteries(2)
+	Drone
 
 LIGHT
-	led brick/ ring(2)
+	Led brick/ ring(2)
 	10ft stand
-	reflector/ mirror
-	bounce	
-	diffuser	
-	flags
-	clamps
+	Reflector/ mirror
+	Bounce	
+	Diffuser	
+	Flags
+	Clamps
 
 PROPS
-	duck-tape
-	insulating-tape
-	double-tape
-	umbrella
-	tarpaul
-	chairs
+	Duck-tape
+	Insulating-tape
+	Double-tape
+	Umbrella
+	Tarpaulin
+	Chairs
 
 
 

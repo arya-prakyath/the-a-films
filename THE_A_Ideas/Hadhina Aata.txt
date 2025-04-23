@@ -1,0 +1,24 @@
+A land surrounded by water on 3 sides and the great mountains in the north.
+People living inside think that is the only part of the earth where there is life and outside of it is nothingness
+The land is divided into 9 kingdoms with mutual respect
+Each kingdom has a King
+The kingdoms -
+	Mudanagari - East
+		Known for the greens and mountains
+	Padunagari - West
+		Stolen by the old king of Mudanagiri buy killing the royal family of Padunagari
+	Uttaraguhe - North
+		Place where no one lives. Believed that MukannaKiraba hides here.
+	Dakshinagudi - South
+		Temples everywhere and peaceful kings. Gives sacrifices
+	Vanarakatte - South East
+		Nomads living by hunting. The rightful king of Chandigallu hides here.
+	Kuberapura - South West
+		The rich stay here. Place lights by the reflection of Sun and moon from the gold. Has fuel below the land
+	Kakhola - North East
+		Built by the flames of the witch who plans to burn the lands
+	Chandigallu - North West
+		Place claimed by an outsider who was a kingshand
+	Ranapalya - Center
+		Place is peaceful but the beggars lie outside the palace
+	

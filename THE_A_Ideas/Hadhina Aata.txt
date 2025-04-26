@@ -4,21 +4,40 @@ The land is divided into 9 kingdoms with mutual respect
 Each kingdom has a King
 The kingdoms -
 	Mudanagari - East
-		Known for the greens and mountains
+		Ambience - Dark Dense Trees and Rocky Mountains
+		Info - 	   Cruel Viking kind of people
+		Ruled by - Dhurana, Son of Vikara, Extremely Cruel
 	Padunagari - West
-		Stolen by the old king of Mudanagiri buy killing the royal family of Padunagari
+		Ambience - Green ghats and Beautiful waterfalls
+		Info -	   Stolen by the king of Mudanagiri by killing the royal family of Padunagari via backstabbing
+		Ruled by - Vikara after the death of his younger brother Prakara
 	Uttaraguhe - North
-		Place where no one lives. Believed that MukannaKiraba hides here.
+		Ambience - Hill with caves and Hot spring with Greens
+		Info -	   No humans live here
+		Ruled by - Believed that Ksharani a lion with vulture wings lives here
 	Dakshinagudi - South
-		Temples everywhere and peaceful kings. Gives sacrifices
+		Ambience - Heavenly floating lands with steps from the ground
+		Info -     Temples everywhere with peaceful monks. Sacrifices and Prayers
+		Ruled by - Gurudevarushi, a blind monk who can see nether things
 	Vanarakatte - South East
-		Nomads living by hunting. The rightful king of Chandigallu hides here.
-	Kuberapura - South West
-		The rich stay here. Place lights by the reflection of Sun and moon from the gold. Has fuel below the land
+		Ambience - Forest with wild animals
+		Info -     Nomadic wilding live heare
+		Ruled by - Vikhara, will do anything to protect his people
+	Kuberapatana - South West
+		Ambience - Surrounded by Golden palaces and Markets and Banks with poor beggars outside the palace
+		Info - 	   Place lights by the reflection of Sun and moon from the gold. Has fuel below the lands	
+		Ruled by - Rich people wearing gold with no ruler
 	Kakhola - North East
-		Built by the flames of the witch who plans to burn the lands
+		Ambience - Dark burnt place of the dead. No plants only Lizards and Snakes
+		Info -     The place was burnt to ashes by the witch Khakhini after her King was killed by Mutany
+		Ruled by - Agnipathaka, born by sacrificing King's daughter to the fire 
 	Chandigallu - North West
-		Place claimed by an outsider who was a kingshand
-	Ranapalya - Center
-		Place is peaceful but the beggars lie outside the palace
+		Ambience - A prison with Bars and Brothels and Gambling houses all around
+		Info - 	   Criminals are sent here to rot but they thrive
+		Ruled by - Comes under the law of Bhagiratha
+	Ranapaalya - Center
+		Ambience - A regular kingdom
+		Info - 	   Kingdom ruled for thousands of years.
+		Ruled by - Bhagiratha, worried about the throne and gets a premonition that the kingdom will burn
+	Vaitharani - A river with a forcce of the ocean around the kingdoms with the biggest gap between Kakhola and others
 	

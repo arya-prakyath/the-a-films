@@ -1,0 +1,15 @@
+10 MM - Fish eye
+
+18 MM - Wide Shot with Lens distortion - Extreme Wide Shot
+
+25 MM - Wide Shot with no Lens distortion - Wide Shot
+
+27 MM - Close Shot with Lens distortion
+
+35 MM - Close Shot with some BG focus - Medium Shot
+
+40 MM - Wide Shot while keeping Subject large - Wide Shot
+
+50 MM - Close Shot with no BG focus - Medium Close Ups
+
+100 MM - Close Shot - Medium Close Ups

@@ -46,5 +46,8 @@ Lighting Techniques
 		Helpless or Lifeless
 	Under head - Under the face
 		Adds horror and scare
+---------------------------------------------------------------------
+For Movie Dark Lighting -
+	Use Ceiling Bounce technique with a 6500K
 		
 

@@ -1,52 +1,60 @@
-PRE_PRODUCTION
---STORY
-	VERBALS
-	POINTERS
-	SCRIPT
---SCREENPLAY
-	DRAFT
-	RE-ORDERING
-	TRANSITIONS
---SCAVAGING
---LISTING
-	SHOT-LIST
-	PROPS-LIST
-	VFX,CGI-LIST
-	CHARACTER-LIST
-	ARTS
---SCHEDULING
-	LOCATION CONFO
-	LIGHTS
-	FOLLEY
-	CAMERA
-	CALL SHEETS
+★ PRE-PRODUCTION -
+1. STORY
+	Pointers that outline the story
+2. SCRIPT
+	Create a Script with Temp Dialogues
+3. NARATION
+	Narrate to the crew
+4. SCREENPLAY
+	Scene Ordering and Transitions
+5. SCAVAGING
+	Location Confirmations
+6. LISTING
+	LOCATION-LIST to Production Manager
+	PROPS-LIST to Production Designer/ Arts
+	SET-LIST to production Designer/ Arts
+	CHARACTER-LIST to Costume, Makeup and Hairs
+	VFX-LIST to VFX Supervisor
+	STUNT-LIST to Stunt Director
+7. SHOT-LIST
+	Create shot list with frame, lens, shot size, focus, movement, placement details
+8. FINAL SCREENPLAY
+	Integrate Dialogues into the final screenplay
+9. WORKSHOP
+	Rehearse with the Cast and Crew (Acts, Cinematography, Stunts)
+10. SCHEDULING
+	Schedule Shoot based on Location, Set, Props confirmations
+	Camera, Lights, Foley
+	Call Sheets
 
-PRODUCTION
---CATERING
---TRAVEL
---COSTUME
---ACTORS
---CINEMATORAPHY
---CONTINUATION
---EDITORS NOTE
---SHOOT
+★ PRODUCTION -
+1. ARTIST CORDINATION
+2. LOCATION CORDINATION
+3. TRAVEL CORDINATION
+4. CATERING CORDINATION
+5. ARTS CORDINATION
+6. COSTUME, HAIRS AND MAKEUP CORDINATION
+7. DOP GAFFER VFX CORDINATION
+8. CONTINUATION CORDINATION
+9. EDITORS NOTE CORDINATION
+10. SHOOT
 
-POST-PRODUCTION
---CUTS
-	STACKING
-	ASSEMBLY-CUT
-	FINE-CUT
---ADDITIONAL VISUALS
+★ POST-PRODUCTION -
+1. CUTS
+	Stacking
+	Assembly Cut
+	Fine Cut
+2. ADDITIONAL VISUALS
 	VFX
 	CGI
-	MOTION-GRAPHICS
---COLORING
-	CORRECTION
-	GRADING
---SOUND
+	MG
+3. COLORING
+	DI
+	Color Correction
+	Color Grading
+4. SOUND
 	BGM
 	SFX
-	ADR/ DUBS
-
-FINAL
+	Voice: PA/ ADR/ DUB
+5. FINAL CUT
 

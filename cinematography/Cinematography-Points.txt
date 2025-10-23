@@ -1,0 +1,50 @@
+EXPOSURE - Tells how much light is exposed to the camera
+	Set using the Exposure Triangle
+	Make sure the Exposure Meter is near zero - MM±0.0
+
+FRAME RATE -
+	Frames in one sec of video
+	24 FPS for normal video
+	60-120 FPS for Slow motion video
+
+EXPOSURE TRIANGLE -
+	Shutter speed - Speed at which shutter opens and closes
+		For normal video keep shutter speed double of FPS
+		Measured in Nth of a second. Eg - 1/50 per sec
+		Fast = Less motion blur - Less Light
+		Slow = More motion blur - More Light
+	Aperture - How much light will enter the sensor
+		Measured in f-stops. Eg. f2.5
+		High = Shallower Dept of Field - More Light
+		Low  = Deeper Dept of Field    - Less Light
+	ISO - How much sensitive is the sensor to light
+		Measured in numbers - 1500
+		High = More Light - More Grains
+		Low  = Less Light - Less Grains
+
+WHITE BALANCE -
+	Tell camera what white looks like in the environment	
+
+PROFILE - 
+	RAW - Unprocessed Original Sensor Data which needs more storage
+	LOG (Flat/ S-Log/ C-Log) - Gamma Curve to compress to Max dynamic range
+	REC709 - A standard color space after conversion
+
+LIGHTS -
+	Key light (main half)
+	Camera on neg fill (shadow side)
+	Fill light (other half)
+	Back light (edge light)
+	Catch light (eye light)
+	Background light (compliment to key)
+	Light Motivation
+
+COMPOSITION -
+	Give head room - Space above head
+	Give face room - For closeups give space towards the subjects view
+	Fill the frame - Keep both left & right side filled/ balanced
+	Rule of thirds - Place subject in the intersection points of  grid #
+	Golden triangle
+	Spiral
+	Leading Lines - Lines pointing to subject
+

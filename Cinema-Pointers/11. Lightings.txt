@@ -1,39 +1,51 @@
-Types of lights:
+LIGHT TYPES -
 	Natural - Sunlight, Moonlight, Firelight, Thunder
 	Artificial - Manmade using electricity
 		Ambient - Lights sources on location (Street lamps)
 		Practical - Light sources in frame
 		Motivated - Source that is shown as the cause of light (Candle)
----------------------------------------------------------------------
-High key - Difference b/w light and dark is min (Happy)
-Low Key	 - Difference b/w light and dark is max (Intense)
----------------------------------------------------------------------
-Varieties :
+
+--------------------------------------------------------------------------------------
+
+HIGH KEY LIGHT - Difference b/w light and dark is min (Happy)
+LOW KEY LIGHT  - Difference b/w light and dark is max (Intense)
+
+--------------------------------------------------------------------------------------
+
+LIGHT SOURCES -
 	Tungsten - Warm light
 	HMI - Cool/ Day light
 	Fluorescent - Tubelight
 	Kino Flo - Collection of tubes
 	LED - RGB/ colors
----------------------------------------------------------------------
-Gels - Sheets to add color to light
-Diffusors - To Scatter and Soften light
-	Soft box, Diff paper, Silk cloth, Fog, Dust, Smoke, Cloud
-Bounce - Diffuse and redirect light
-	Reflector, Bead board
-Flags - To block the light
-	Black screens or boards, Barn doors on light
-Egg crates - To direct light and prevent light in unwanted areas
-Cookies - Boards with pattern to add texture (Window shape)
----------------------------------------------------------------------
-Key light - Primary light on the subject
-Fill light - Fill the shadows caused by key
-Back light - Creates edge to separate subject from background
+
+--------------------------------------------------------------------------------------
+
+LIGHT EQUIPMENTS -
+	Gels - Sheets to add color to light
+	Diffusors - To Scatter and Soften light
+		Soft box, Diff paper, Silk cloth, Fog, Dust, Smoke, Cloud
+	Bounce - Diffuse and redirect light
+		Reflector, Bead board
+	Flags - To block the light
+		Black screens or boards, Barn doors on light
+	Egg crates - To direct light and prevent light in unwanted areas
+	Cookies - Boards with pattern to add texture (Window shape)
+
+--------------------------------------------------------------------------------------
+
+LIGHT TYPES by POSITION -
+	Key light - Primary light on the subject
+	Fill light - Fill the shadows caused by key
+	Back light - Creates edge to separate subject from background
 	Edge lights/ Kickers - Edge of a particular area like ears
 	Hair lights - Edges of the hair
-Catch/ Eye light - Reflection in the eyes to add life
-Background lights - Lights that are contrasty to the foreground
----------------------------------------------------------------------
-Lighting Techniques
+	Catch/ Eye light - Reflection in the eyes to add life
+	Background lights - Lights that are contrasty to the foreground
+
+--------------------------------------------------------------------------------------
+
+LIGHTING TECHNIQUES -
 	Rembrandt - Key light higher, Fill light dimmer 
 		Creates a triangle on neg side. Creates intense
 	Butterfly/ Paramount - Key at high infront
@@ -46,8 +58,10 @@ Lighting Techniques
 		Helpless or Lifeless
 	Under head - Under the face
 		Adds horror and scare
----------------------------------------------------------------------
-For Movie Dark Lighting -
-	Use Ceiling Bounce technique with a 6500K
+	For Dark Lighting -
+		Use Ceiling Bounce technique with a 6500K
+
+--------------------------------------------------------------------------------------
+
 		
 

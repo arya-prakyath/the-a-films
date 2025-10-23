@@ -1,15 +1,35 @@
-10 MM - Fish eye
+LENS - 
+	Device that manages Aperture and Depth of Field (Focus)
+	Measured in millimeters
 
-18 MM - Wide Shot with Lens distortion - Extreme Wide Shot
+LENS TYPES -
+	Prime Lens 	- Fixed Focal Length
+	Zoom Lens	- Changeable Focal Length
 
-25 MM - Wide Shot with no Lens distortion - Wide Shot
+	Wide Lens 	- Has wider depth of field
+			  11MM - 35MM
+	Mid Range Lens 	- Has shallower depth of field
+			  35MM - 70MM
+	Standard Lens	- Closer to the Human Eye
+			  50 MM
+	Telephoto Lens 	- Extremely high Zoomed field of view		
+			  70MM - 100MM
 
-27 MM - Close Shot with Lens distortion
+WHEN TO USE WHICH LENS -
 
-35 MM - Close Shot with some BG focus - Medium Shot
+	10 MM - Fish eye effect
 
-40 MM - Wide Shot while keeping Subject large - Wide Shot
+	18 MM - Wide Shot with Lens distortion - Extreme Wide Shot
 
-50 MM - Close Shot with no BG focus - Medium Close Ups
+	25 MM - Wide Shot with no Lens distortion - Wide Shot
 
-100 MM - Close Shot - Medium Close Ups
+	27 MM - Close Shot with Lens distortion
+
+	35 MM - Close Shot with some BG focus - Medium Shot
+
+	40 MM - Wide Shot while keeping Subject large - Wide Shot
+
+	50 MM - Close Shot with no BG focus - Medium Close Ups
+
+	100 MM - Close Shot - Medium Close Ups
+

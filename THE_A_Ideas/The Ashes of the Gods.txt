@@ -1,60 +1,59 @@
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
-|    Name   |   Deva  | Mount   |     River    |      Powers     |   Profession  |  Character  |        Notable Scenes       |
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
-| Agni      | Agni    | Sheep   | Kaveri - KA  | Fire            | Poor          | Good        | Takes a dip in Ganga        |
-|           |         |         |              | Heat            | Blacksmith    | Brave       | While scattering ashes      |
-|           |         |         |              | Weapons         |               | Leader      | of his stepmother.          |
-+-----------+---------+---------+              |                 +---------------+             | Sees the past life.         |
-| Manyati   | Svaha   |    -    |              |                 | Archaeologist |             | Manayati finds something    |
-|           |         |         |              |                 |               |             | and conveys messages.       |
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
-| Oliyan    | Surya   | 7 Horse | Kaveri - TN  | Light           | Bandit on     | Harsh       | His Steps glow.             |
-|           |         |         |              | Luminance       | Horses        | Greedy      | Fights a demon with         |
-|           |         |         |              | Speed           |               | Cunning     | Chaya on his Side.          |
-+-----------+---------+---------+              |                 +---------------+             | Chaya dies.                 |
-| Chaya     | Chaya   |    -    |              |                 | Forest        |             | Oliyan unleashes his        |
-|           |         |         |              |                 | officer       |             | energy. Chaya arises from   |
-|           |         |         |              |                 |               |             | Oliyan's light.             |
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
-| Bhuvin    | Pruthvi |    -    | Pamba - KL   | Control Soil    | Well-known    | Calm        | Defeats a Daithya           |
-|           |         |         |              | Control Stones  | Sculptor      | Scared      | Despite being               |
-|           |         |         |              | Shape elements  |               | Empathetic  | cowardly. He closes his     |
-|           |         |         |              | Land Quakes     |               |             | eyes in defeat. But         |
-+-----------+---------+---------+              | Land slides     +---------------+             | from the sky Gagana         |
-| Gagana    | Dyaus   |    -    |              |                 | Wildlife      |             | comes to his aid.           |
-|           |         |         |              |                 | Photographer  |             | He places buries the        |
-|           |         |         |              |                 |               |             | rakshasa with respect.      |
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
-| Sagar Raj | Varuna  | Makara  | Misses       | Control Water   | Local Boat    | Prideful    | He floods dry               |
-|           |         |         | Sindhu -     | Tides           | Repairer      | Rowdy       | farmlands.                  |
-|           |         |         | Goes to AP   | Underwater      |               | Sarcastic   | A fight in ocean.           |
-|           |         |         |              |                 |               |             | Runs from bear and falls    |
-|           |         |         |              |                 |               |             | from the edge into water.   |
-+-----------+---------+---------+              |                 +---------------+             | A hand of Godavari          |
-| Sura      | Varuni  |    -    |              |                 | Bar           |             | reaches and touches his     |
-|           |         |         |              |                 |               |             | head He raises from         |
-|           |         |         |              |                 |               |             | underwater, up in the air   |
-|           |         |         |              |                 |               |             | and sends a wave.           |
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
-| Vaara     | Vayu    | Gazelle | Misses       | Control Wind    | Nomadic       | Free bird   | Grew all alone.             |
-|           |         |         | Narmada - MH | Create Cyclone  | Banjara       | Witty       | Yacht crashes shore         |
-|           |         |         |              | Vanish in air   |               | Adventurous | into a Shack, he puts       |
-|           |         |         |              |                 |               |             | his shoulder and blocks     |
-|           |         |         |              |                 |               |             | Using wind causing the      |
-|           |         |         |              |                 |               |             | ship to break.              |
-|           |         |         |              |                 |               |             | Yamuna asks him to take     |
-|           |         |         |              |                 |               |             | a dip in Yamuna because     |
-|           |         |         |              |                 |               |             | he does not remebers the    |
-+-----------+---------+---------+              |                 +---------------+             | Guru's words.               |
-| Yamuna    | Yamuna  |    -    |              |                 |               |             | He meets his wife and       |
-|           |         |         |              |                 |               |             | kid spends time. His        |
-|           |         |         |              |                 |               |             | reflection tells him he     |
-|           |         |         |              |                 |               |             | is dreaming. Wife cries     |
-|           |         |         |              |                 |               |             | and kid falls when he       |
-|           |         |         |              |                 |               |             | runs. He jumps to           |
-|           |         |         |              |                 |               |             | air from a clif and wakes   |
-|           |         |         |              |                 |               |             | up from the dream to fight. |
-+-----------+---------+---------+--------------+-----------------+---------------+-------------+-----------------------------+
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
+|    Name   |   Deva  | Mount   |     River    |      Powers     |   Profession  |  Character  |        Notable Scenes        |
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
+| Agni      | Agni    | Sheep   | Kaveri - KA  | Fire            | Poor          | Good        | Takes a dip in Ganga         |
+|           |         |         |              | Heat            | Blacksmith    | Brave       | While scattering ashes       |
+|           |         |         |              | Weapons         |               | Leader      | of his stepmother.           |
++-----------+---------+---------+              |                 +---------------+             | Sees the past life.          |
+| Manyati   | Svaha   |    -    |              |                 | Archaeologist |             | Manayati finds something     |
+|           |         |         |              |                 |               |             | and conveys messages.        |
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
+| Oliyan    | Surya   | 7 Horse | Kaveri - TN  | Light           | Bandit on     | Harsh       | His Steps glow. Goes to      |
+|           |         |         |              | Luminance       | Horses        | Greedy      | fight a demon with his       |
+|           |         |         |              | Speed           |               | Cunning     | bandit team. Demon kills     |
+|           |         |         |              |                 |               |             | with sharp hairs cuts        |
++-----------+---------+---------+              |                 +---------------+             | into pieces. Chaya comes     |
+| Chaya     | Chaya   |    -    |              |                 | Forest        |             | there and helps Chaya        |
+|           |         |         |              |                 | officer       |             | dies. Oliyan unleashes his   |
+|           |         |         |              |                 |               |             | energy.Chaya arises from     |
+|           |         |         |              |                 |               |             | Oliyan's light.              |
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
+| Bhuvin    | Pruthvi |    -    | Pamba - KL   | Control Soil    | Well-known    | Calm        | Defeats a Daithya Despite    |
+|           |         |         |              | Control Stones  | Sculptor      | Scared      | being cowardly. He closes    |
+|           |         |         |              | Shape elements  |               | Empathetic  | his eyes in defeat. But      |
++-----------+---------+---------+              | Land Quakes     +---------------+             | from the sky Gagana comes    |
+| Gagana    | Dyaus   |    -    |              | Land slides     | Wildlife      |             | to his aid. He places        |
+|           |         |         |              |                 | Photographer  |             | buries the rakshasa with     |
+|           |         |         |              |                 |               |             | respect growing flowers.     |
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
+| Sagar Raj | Varuna  | Makara  | Misses       | Control Water   | Local Boat    | Prideful    | He floods dry farmlands.     |
+|           |         |         | Sindhu -     | Tides           | Repairer      | Rowdy       | A fight in ocean. Runs       |
+|           |         |         | Goes to AP   | Underwater      |               | Sarcastic   | from a wild beast, falls     |
+|           |         |         |              |                 |               |             | over the edge into water.    |
+|           |         |         |              |                 |               |             | A hand of Godavari reaches   |
++-----------+---------+---------+              |                 +---------------+             | and touches his forehead.    |
+| Sura      | Varuni  |    -    |              |                 | Bar           |             | He raises from underwater,   |
+|           |         |         |              |                 |               |             | up in the air as Varuna      |
+|           |         |         |              |                 |               |             | dev and sends a wave.        |
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
+| Vaara     | Vayu    | Gazelle | Misses       | Control Wind    | Nomadic       | Free bird   | Grew all alone.              |
+|           |         |         | Narmada - MH | Create Cyclone  | Banjara       | Witty       | Yacht crashes shore          |
+|           |         |         |              | Vanish in air   |               | Adventurous | into a Shack, he puts        |
+|           |         |         |              |                 |               |             | his shoulder and blocks      |
+|           |         |         |              |                 |               |             | Using wind causing the       |
+|           |         |         |              |                 |               |             | ship to break. Yamuna asks   |
+|           |         |         |              |                 |               |             | him to take a dip in Yamuna  |
+|           |         |         |              |                 |               |             | because he does not          |
+|           |         |         |              |                 |               |             | remeber the Guru's words.    |
++-----------+---------+---------+              |                 +---------------+             | He meets his wife and        |
+| Yamuna    | Yamuna  |    -    |              |                 |               |             | kid spends time. His         |
+|           |         |         |              |                 |               |             | reflection tells him he is   |
+|           |         |         |              |                 |               |             | dreaming. Wife cries and the |
+|           |         |         |              |                 |               |             | kid falls when he runs. He   |
+|           |         |         |              |                 |               |             | jumps to air from a clif     |
+|           |         |         |              |                 |               |             | and wakes up from the dream  |
+|           |         |         |              |                 |               |             | to fight. Hat as weapon.     |
++-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
 
 In a world somewhere in the universe 5 young boys are playing.
 Suddenly there is an attack.
@@ -176,10 +175,19 @@ He shouts out to shiva and falls to the ground as fog sets in.
 The boys watch as the fog clears revealing a small linga where the guru vanishes.
 They pray to the linga and walk out.
 
-The climax fight happens in Hampi.
-The 5 gods merge their powers. Merge their sins. Destroy the core of Shatakarni's existence.
+While fighting varuna gets his head cut but it hangs with his blood like water elastic and joins back.
 
-Brahma	- Brahmakamala
+The climax fight happens in Hampi.
+The 5 gods merge their powers. Merge their sins. Blast out an attack that destroys Shatakarna.
+They think they won but the smoky ash body blasts everyone like a nuke attack.
+The 5 gods fall in 5 directions.
+Shatakarna splits himself into 5 pieces.
+All the 5 pieces attack the 5 gods.
+The 5 pieces will be cameos of 5 villain actors across industry.
+They each defeat the 5 pieces and merge them into one.
+They blast the core of Shatakarni's existence.
+
+Brahma	- First Brahmakamala to grow when earth was formed
 Vishnu 	- Shanka
 Shiva 	- Rudrakshi (Next to Linga when Guru disappears)
 Agni	- Fire

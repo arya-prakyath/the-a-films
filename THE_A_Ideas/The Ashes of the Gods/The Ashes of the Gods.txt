@@ -55,6 +55,20 @@
 |           |         |         |              |                 |               |             | to fight. Hat as weapon.     |
 +-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
 
++---------+--------------------------+-------------------------------------+
+| Element | Temple                   | Place                               |
++---------+--------------------------+-------------------------------------+
+| Fire    | Arunachaleswarar Temple  | Thiruvannamalai, Tamil Nadu         |
++---------+--------------------------+-------------------------------------+
+| Sky     | Thillai Nataraja Temple  | Chidambaram, Tamil Nadu             |
++---------+--------------------------+-------------------------------------+
+| Earth   | Ekambareswarar Temple    | Kanchipuram, Tamil Nadu             |
++---------+--------------------------+-------------------------------------+
+| Water   | Jambukeswarar Temple     | Thiruvanaikaval, Trichy, Tamil Nadu |
++---------+--------------------------+-------------------------------------+
+| Wind    | Kalahastheeswarar Temple | Srikalahasti, Andhra Pradesh        |
++---------+--------------------------+-------------------------------------+
+
 In a world somewhere in the universe 5 young boys are playing.
 Suddenly there is an attack.
 Buildings collapse, fires everywhere, people turning into ashes.

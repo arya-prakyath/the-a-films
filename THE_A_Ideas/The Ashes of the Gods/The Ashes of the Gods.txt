@@ -15,7 +15,7 @@
 +-----------+---------+---------+              |                 +---------------+             | into pieces. Chaya comes     |
 | Chaya     | Chaya   |    -    |              |                 | Forest        |             | there and helps Chaya        |
 |           |         |         |              |                 | officer       |             | dies. Oliyan unleashes his   |
-|           |         |         |              |                 |               |             | energy.Chaya arises from     |
+|           |         |         |              |                 |               |             | energy. Chaya arises from    |
 |           |         |         |              |                 |               |             | Oliyan's light.              |
 +-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
 | Bhuvin    | Pruthvi |    -    | Pamba - KL   | Control Soil    | Well-known    | Calm        | Defeats a Daithya Despite    |
@@ -27,7 +27,7 @@
 |           |         |         |              |                 |               |             | respect growing flowers.     |
 +-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
 | Sagar Raj | Varuna  | Makara  | Misses       | Control Water   | Local Boat    | Prideful    | He floods dry farmlands.     |
-|           |         |         | Sindhu -     | Tides           | Repairer      | Rowdy       | A fight in ocean. Runs       |
+|           |         |         | Sindhu -     | Tides           | Repairer      | Rowdy       | A fight in the ocean. Runs   |
 |           |         |         | Goes to AP   | Underwater      |               | Sarcastic   | from a wild beast, falls     |
 |           |         |         |              |                 |               |             | over the edge into water.    |
 |           |         |         |              |                 |               |             | A hand of Godavari reaches   |
@@ -44,13 +44,13 @@
 |           |         |         |              |                 |               |             | ship to break. Yamuna asks   |
 |           |         |         |              |                 |               |             | him to take a dip in Yamuna  |
 |           |         |         |              |                 |               |             | because he does not          |
-|           |         |         |              |                 |               |             | remeber the Guru's words.    |
+|           |         |         |              |                 |               |             | remember the Guru's words.   |
 +-----------+---------+---------+              |                 +---------------+             | He meets his wife and        |
-| Yamuna    | Yamuna  |    -    |              |                 |               |             | kid spends time. His         |
+| Yamuna    | Yamuna  |    -    |              |                 |               |             | the kid spends time. His     |
 |           |         |         |              |                 |               |             | reflection tells him he is   |
 |           |         |         |              |                 |               |             | dreaming. Wife cries and the |
 |           |         |         |              |                 |               |             | kid falls when he runs. He   |
-|           |         |         |              |                 |               |             | jumps to air from a clif     |
+|           |         |         |              |                 |               |             | jumps to air from a cliff    |
 |           |         |         |              |                 |               |             | and wakes up from the dream  |
 |           |         |         |              |                 |               |             | to fight. Hat as weapon.     |
 +-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
@@ -202,7 +202,8 @@ Bhuvin says he will continue sculpting and wans to sculpt a temple where Guru va
 
 
 
-
+Symbols of carvings in some temple.
+Mirror symbol of om in tamil.
 
 
 

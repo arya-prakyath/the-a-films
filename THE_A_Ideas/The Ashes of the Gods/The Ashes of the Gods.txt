@@ -1,8 +1,8 @@
 +-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
 |    Name   |   Deva  | Mount   |     River    |      Powers     |   Profession  |  Character  |        Notable Scenes        |
 +-----------+---------+---------+--------------+-----------------+---------------+-------------+------------------------------+
-| Agni      | Agni    | Ram     | Kaveri - KA  | Fire            | Poor          | Good        | Takes a dip in Ganga         |
-|           |         |         |              | Heat            | Blacksmith    | Brave       | While scattering ashes       |
+| Agni      | Agni    | Ram     | Kaveri - KA  | Fire            | Blacksmith    | Good        | Takes a dip in Ganga         |
+|           |         |         |              | Heat            |    		 | Brave       | While scattering ashes       |
 |           |         |         |              | Weapons         |               | Leader      | of his stepmother.           |
 +-----------+---------+---------+              |                 +---------------+             | Sees the past life.          |
 | Manyati   | Svaha   |    -    |              |                 | Archaeologist |             | Manayati finds something     |

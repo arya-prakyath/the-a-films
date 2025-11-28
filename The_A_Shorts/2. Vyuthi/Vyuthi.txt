@@ -446,18 +446,35 @@ Low pitch for Demon Sounds
 12 - Kriti	- You can rest now! ✔
 13 - FRIEND	- Olle dead body tara malgidyallo! ✔
 15 - DOCTOR	- Also, You are way deep in your web, Adi! (shout) GET OUT OF IT! ✔
-19 - VED	- (balloon) Nim maga! (pops) Adre inmunde (stops) Naan nim maga alla! (runs & hides in wardrobe) Let it go dad! ✔
+19 - GIRI	- Hindina nenapgalna bitu munde hogu
+20 - KRITI 	- Adi, Horado time aytu! Horadu! ✔
+20 - VED	- Appa Horadi ✔
+20 - MOTHER	- Maga Horada ✔
+22 - PRIEST	- Tarpana video ✔
+22 - VED	- (balloon) Nim maga! (pops) Adre inmunde (stops) Naan nim maga alla! (runs & hides in wardrobe) Let me go daddy! ✔
+23 - MOTHER	- muchi hogiro bagilugalanna mathe tegdu, inastu nov madkobeda maga ✔
+24 - MAIL	- Envelope ✔
+25 - FATHER	- Prakruthiya niyama! Sathya opkond neene Horadu! Ade Sulabhada Dhari! ✔
 
-GIRI	- (Sleepwalk) Kelo baglu bandh admel hinde tirgi mathe tegiyo prayathna madbardu! Munde kano bagile daari (tips his head)
 
-KRITI 	- Adi, Its time to go!
-MOTHER	- Sigakondiyalla Maga!
-VKM	- (Mother) Sullu gala olage kaldogidya Adi, Adrinda Horeg Ba! 
-	  (Kriti) Neen kans kanthilla Adi! Neene ondu Kanasu!
-	  (Ved) 
-	  (All three) Horadu! Horadu! Horadu!
+DARK ROOM - 	
+	(Ved) Sul gala olage kaldogiya appa, Adrinda ache banni
+	(Kriti) Neen kans kanthilla Adi! Neene ondu Kanasu!
+	(Giri) Neen innu bari gali al harado mathu aste
+	(Mother) 
 
-FATHER	- Prakruthiya niyama! Sathya opkond neene Horadu! Ade Sulabhada Dhari!
+Hospital -> Bathroom -> Photo blink -> Room ghost -> Sit with book
+Callback Ved -> Callback Kriti -> Hands loops -> No water -> Kitchen
+Landline -> Kriti prego -> All three go -> Doobie -> Tarpana
+Landline -> Balloon -> Ved Balloon -> Doors -> Mother floater -> Loopy Eyes -> Door
+Dark Room -> Mailbox -> Wake up -> Pyre -> Run
+Red field -> Shards
+
+
+
+
+
+
 
 
 

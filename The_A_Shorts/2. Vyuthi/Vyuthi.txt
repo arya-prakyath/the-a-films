@@ -455,13 +455,11 @@ Low pitch for Demon Sounds
 23 - MOTHER	- muchi hogiro bagilugalanna mathe tegdu, inastu nov madkobeda maga ✔
 24 - MAIL	- Envelope ✔
 25 - FATHER	- Prakruthiya niyama! Sathya opkond neene Horadu! Ade Sulabhada Dhari! ✔
-
-
-DARK ROOM - 	
-	(Ved) Sul gala olage kaldogiya appa, Adrinda ache banni
-	(Kriti) Neen kans kanthilla Adi! Neene ondu Kanasu!
-	(Giri) Neen innu bari gali al harado mathu aste
-	(Mother) 
+28 - DARK ROOM - 	
+	(Ved) Sul gala olage kaldogiya appa, Adrinda ache banni ✔
+	(Kriti) Neen kans kanthilla Adi! Neene ondu Kanasu! ✔
+	(Giri) Neen innu bari gali al harado mathu aste ✔
+	(Mother) AS YAMADHOOTHA ✔
 
 Hospital -> Bathroom -> Photo blink -> Room ghost -> Sit with book
 Callback Ved -> Callback Kriti -> Hands loops -> No water -> Kitchen

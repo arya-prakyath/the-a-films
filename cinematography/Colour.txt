@@ -1,0 +1,19 @@
+CORRECTION -
+	Exposure, White Balance, Contrast, Brightness, Saturation
+GRADING -
+	Hue, Skin, Tone, LUTs, Blurs, Effects, Grains
+
+NODES -
+	IDT
+		To DaVinci Wide Gamut DaVinci Intermediate
+	PRIMARY
+		Lift, Gain, Gamma, Contrast, Brightness
+	LOOK
+		Saturation, Hue, LUTs
+	SKIN
+		Highlights, Vector Scope
+	FOCUS
+		Blur, Masks
+	TRANSFORM
+		To Rec709/ Rec2020 color space
+	

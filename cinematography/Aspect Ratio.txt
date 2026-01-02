@@ -1,0 +1,6 @@
+4:3 	-> Old TV Box
+2.35:1	-> Cinemascope
+2.39:1	-> Tighter Cinemascope
+1.85:1	-> Tall
+1.77:1	-> 16:9 Standard (TV, Laptop, Mobile)
+1.43:1	-> IMAX

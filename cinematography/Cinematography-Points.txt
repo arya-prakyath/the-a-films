@@ -43,8 +43,6 @@ COMPOSITION -
 	Give head room - Space above head
 	Give face room - For closeups give space towards the subjects view
 	Fill the frame - Keep both left & right side filled/ balanced
-	Rule of thirds - Place subject in the intersection points of  grid #
-	Golden triangle
-	Spiral
-	Leading Lines - Lines pointing to subject
+	Center,	Leading Lines, Rule of thirds, Golden Ratio, Diagonal, Spiral, Geometric
+
 

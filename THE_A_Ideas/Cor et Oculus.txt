@@ -177,12 +177,14 @@ Ruthu also smiles and points, "Careless!".
 
 Comedy	- 6 boys meet to drink and go on a night out
 Action	- Vajra is an army guy who goes on a mission to save kids
-Horror	- 2 Girl Serial killers Kill an ex-army Vajra
+Slasher	- 2 Girl Serial killers Kill an ex-army Vajra
 Romance	- Love and fight between a couple
 Drama	- Student's loan and running away
 Thrill	- Driver, Employee and CEO	
-Mystery	- An employee is haundet by his dead friend
-Emotional - The villager
+Mystery	- An employee is haunted by his dead friend via dead phone
+Emotional - The Villager
+Thrill	- Investigation of a serial killer
+
 
 
 

@@ -3,7 +3,7 @@ CORRECTION -
 GRADING -
 	Hue, Skin, Tone, LUTs, Blurs, Effects, Grains
 
-NODES -
+NODES - [Do Color Space Transform in the project management - Davinci YRGB Color Managed]
 	IDT
 		To DaVinci Wide Gamut DaVinci Intermediate
 	PRIMARY

@@ -1,0 +1,14 @@
+Comedy
+Mystery
+Romance
+Drama
+Horror
+
+Fantasy
+Crime
+Action
+Adventure
+Musical
+Sci-Fi
+Documentary
+Historic

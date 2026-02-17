@@ -452,11 +452,10 @@ Low pitch for Demon Sounds
 3 - VED		- Horado Samaya Aytu ✔
 5 - ROOM 	- TIME TO GO poster on the wall ✔
 7 - KRITI	- Kelome! It feels like a sweet dream. Adrinda ache barbeku ✔
-
 8 - GIRI 	- Cheers! Horadu! ✔
-
-9 - PHONE	- Adi! Adi! Deepa Haride! Horaduuu! ✔
+9 - PHONE	- Adi! Adi! Deepa Haride maga! ✔
 10 - MOTHER  	- Horadu! College ge time aytu... Horadu! ✔
+
 12 - Kriti	- You can rest now! ✔
 13 - FRIEND	- Olle dead body tara malgidyallo! ✔
 15 - DOCTOR	- Also, You are way deep in your web, Adi! (shout) GET OUT OF IT! ✔

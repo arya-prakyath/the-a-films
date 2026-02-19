@@ -437,6 +437,14 @@ Reverse Reverb for Ghost Sounds
 Low pitch for Demon Sounds
 ------------------------------------------------
 
+TODO - 
+Scene 13, 14 - Bomb>Room>Class>Sports OR Bomb>Class>Room>Trip
+Callback - The shadow figure that Kriti looks behind Adi
+
+
+
+
+
 1. The Opening
 2. The Premise
 3. The Son's Query
@@ -453,8 +461,11 @@ Low pitch for Demon Sounds
 14. The Painful Game
 15. The Truth of the Diagnosis 
 16. The Return of the Pills
+17. The TV and the Past
+18. The Room Strikes Again
+19. The Future of the Thirst
+20. The Dry Kitchen
 
-DELUSION
 
 3 - VED		- Horado Samaya Aytu ✔
 5 - ROOM 	- TIME TO GO poster on the wall ✔
@@ -463,9 +474,10 @@ DELUSION
 9 - PHONE	- Adi! Adi! Deepa Haride maga! ✔
 10 - MOTHER  	- Horadu! College ge time aytu... Horadu! ✔
 12 - Kriti	- You can rest now! ✔
+15 - DOCTOR	- Also, You are way deep in your web, Adi! (shout) GET OUT OF IT! ✔
 
 13 - FRIEND	- Olle dead body tara malgidyallo! ✔
-15 - DOCTOR	- Also, You are way deep in your web, Adi! (shout) GET OUT OF IT! ✔
+
 19 - GIRI	- Hindina nenapgalna bitu munde hogu
 20 - KRITI 	- Adi, Horado time aytu! Horadu! ✔
 20 - VED	- Appa Horadi ✔

@@ -443,14 +443,18 @@ Low pitch for Demon Sounds
 4. The Wife's Clarity
 5. The Room's Terror
 6. The Pills
-7. The Return of the Wife
+7. The Wife's Confusion
 8. The Cold Kitchen
-9. The Confusion
-10. Back to the Room
-11. The Time Jumps
+9. The Ring of Delusion
+10. The Room Strikes Back
+11. The Jumps of the time
 12. Take a Nap
-13. The Doze of the Classroom
+13. The College Days OR The Trippy Trip
+14. The Painful Game
+15. The Truth of the Diagnosis 
+16. The Return of the Pills
 
+DELUSION
 
 3 - VED		- Horado Samaya Aytu ✔
 5 - ROOM 	- TIME TO GO poster on the wall ✔
@@ -458,8 +462,8 @@ Low pitch for Demon Sounds
 8 - GIRI 	- Cheers! Horadu! ✔
 9 - PHONE	- Adi! Adi! Deepa Haride maga! ✔
 10 - MOTHER  	- Horadu! College ge time aytu... Horadu! ✔
-
 12 - Kriti	- You can rest now! ✔
+
 13 - FRIEND	- Olle dead body tara malgidyallo! ✔
 15 - DOCTOR	- Also, You are way deep in your web, Adi! (shout) GET OUT OF IT! ✔
 19 - GIRI	- Hindina nenapgalna bitu munde hogu

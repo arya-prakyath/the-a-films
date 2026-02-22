@@ -447,36 +447,52 @@ Doobie -> Tarpana -> X -> Tulasi
 
 For torch end scene use a high frequency sound and use seizure POV
 
-1. The Opening
-2. The Premise
-3. The Son's Query
-4. The Wife's Clarity
-5. The Room's Terror
-6. The Pills
-7. The Wife's Confusion
-8. The Cold Kitchen
-9. The Ring of Delusion
-10. The Room Strikes Back
-11. The Jumps of the time
-12. Take a Nap
-13. The College Days OR The Trippy Trip
-14. The Painful Game
-15. The Diagnosis
-16. The Return of the Pills
-17. The TV and the Future
-18. The Room Strikes Again
-19. The Vision of the Future
-20. The Son's Nightmare
-21. The Hauntings in the Dark
-22. The Reveal
-23. The Thirst
-24. KRITI PREGO
-25. The Ecstasy of Water
-26. The Doors of Memories
+1. The Opening ✔
+2. The Premise ✔
+3. The Son's Query ✔
+4. The Wife's Clarity ✔
+5. The Room's Terror ✔
+6. The Pills ✔
+7. The Wife's Confusion ✔
+8. The Cold Kitchen ✔
+9. The Ring of Delusion ✔
+10. The Room Strikes Back ✔
+11. The Jumps of the time ✔
+12. Take a Nap ✔
+13. The Trippy Trip
+14. The Doctor ✔
+15. The Return of the Pills ✔
+16. The TV and the Future ✔
+17. The Room Strikes Again ✔
+18. The Vision of the Future ✔
+19. The Son's Nightmare ✔
+20. The Hauntings in the Dark ✔ -- Phone call
+21. The Reveal of the Secret ✔
+22. The Thirst 
+23. The Wife's - KRITI PREGO
+24. The Doors of Memories
+25. The Deadly High
+26. The Ecstasy of Tulasi
 27. What is Happening
 28. The Netherworld
 29. The Shards of Past
-30. The Truth of Yama
+30. The Acceptance of the Truth
+
+
+
+Rice, Puff rice, Oil, Sand, Flower, Ash, Smoke
+Dining Jug - Rice
+Thermos - Evaporate
+Taps - No Water
+Mud Pot/ Tea Pot - Oil
+Fridge - Empty
+Cabinet - Whiskey Bottle
+Whiskey Bottle - Puffed Rice
+Soda in a Glass on a Shelf - Sand
+Hall Jug - Flowers
+Tender Coconut with a knife - Ash
+Vase - Smoke
+
 
 
 3 - VED		- Horado Samaya Aytu ✔
@@ -488,17 +504,14 @@ For torch end scene use a high frequency sound and use seizure POV
 12 - Kriti	- You can rest now! ✔
 15 - DOCTOR	- You are way deep in your web, Adi! (shout) GET OUT OF IT! ✔
 
-13 - FRIEND	- Olle dead body tara malgidyallo! ✔
+13 - FRIEND	- Olle dead body tara malgidyallo!
 
-19 - GIRI	- Hindina nenapgalna bitu munde hogu
-20 - KRITI 	- Adi, Horado time aytu! Horadu! ✔
-20 - VED	- Appa Horadi ✔
-20 - MOTHER	- Maga Horada ✔
 22 - PRIEST	- Tarpana video ✔
 22 - VED	- (balloon) Nim maga! (pops) Adre inmunde (stops) Naan nim maga alla! (runs & hides in wardrobe) Let me go daddy! ✔
-23 - MOTHER	- muchi hogiro bagilugalanna mathe tegdu, inastu nov madkobeda maga ✔
+23 - MOTHER	- muchi hogiro bagilugalanna mathe tegdu, inastu nov madkobeda maga
+
 24 - MAIL	- Envelope ✔
-25 - FATHER	- Prakruthiya niyama! Sathya opkond neene Horadu! Ade Sulabhada Dhari! ✔
+25 - FATHER	- Prakruthiya niyama! Sathya opkond neene Horadu! Ade Sulabhada Dhari!
 28 - DARK ROOM - 	
 	(Ved) Sul gala olage kaldogiya appa, Adrinda ache banni ✔
 	(Kriti) Neen kans kanthilla Adi! Neene ondu Kanasu! ✔

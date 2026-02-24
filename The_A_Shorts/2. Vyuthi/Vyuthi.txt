@@ -466,18 +466,26 @@ For torch end scene use a high frequency sound and use seizure POV
 17. The Room Strikes Again ✔
 18. The Loop De Loop ✔
 19. The Son's Nightmare ✔
-20. The Hauntings in the Dark ✔ -- Phone call
-21. The Reveal of the Secret ✔
-22. The Thirst ✔
+20. The Hauntings in the Flash ✔ -- Phone call
+21. The Scary Secret ✔
+22. The Unquenchable Thirst ✔
 23. The News from the Wife and the Son ✔
-24. The Doors of Memories
-25. The Deadly High
-26. The Ecstasy of Tulasi
-27. What is Happening
-28. The Netherworld
-29. The Shards of Past
-30. The Acceptance of the Truth
+24. The Loop of Void ✔
+25. The Ritual for the Stoned ✔
+26. The Elixir of Tulasi ✔
+27. The Fracture of Reality ✔ 
+28. The Hope of the Netherworld
+29. The Shards of the Past
+30. The Darkness of Truth
 
+S5, S18, S20 - Flickering Shake Effect
+S5, S18, S20 - Time Step Effect
+S5, S18, S20 - Motion Trail Effect
+S21 - Door Loop Effect
+S21 - Wave Distortion Effect
+S24 - Background Spin Effect
+S24 - Eye Loop de Loop Effect
+S29 - Dream Effect
 
 3 - VED		- Horado Samaya Aytu ✔
 5 - ROOM 	- TIME TO GO poster on the wall ✔
@@ -501,6 +509,17 @@ For torch end scene use a high frequency sound and use seizure POV
 	(Kriti) Neen kans kanthilla Adi! Neene ondu Kanasu! ✔
 	(Giri) Neen innu bari gali al harado mathu aste ✔
 	(Mother) AS YAMADHOOTHA ✔
+
+
+Morse code for doctor tap -
+Y -> _ . _ _
+O -> _ _ _
+U -> . . _
+R -> . _ .
+D -> _ . .
+E -> .
+A -> . _
+D -> _ . .
 
 
 Urana

@@ -521,6 +521,7 @@ E -> .
 A -> . _
 D -> _ . .
 
+Cinematic extreme close-up side view of a 4k hyper realistic single pale, withered old woman's hand. The hand is ghostly with visible veins and dark broken blunt nails. It slowly enters the frame from the edge, visibly trembling and shaking. After entering the frame, the fingers fold to form a pointed tapping gesture, and the extended index finger firmly taps an invisible vertical surface ONE TIME ONLY. Shot against a perfectly flat, evenly lit chroma key green background. Flat, shadowless lighting ensures no color spill or shadows on the green screen.
 
 Urana
 Shamasuthra
@@ -528,5 +529,11 @@ Shunda
 Marka
 Udhumbhara
 Sheshambhala
+
+
+
+
+
+
 
 

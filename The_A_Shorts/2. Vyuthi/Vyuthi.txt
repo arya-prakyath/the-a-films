@@ -429,9 +429,6 @@ Adi bangs the mirror which causes his photo to shake in the real world.
 Ved looks at the shaking photo of his father and asks his mother "Mom, is our house haunted?"
 
 ------------------------------------------------
-Eye tunnel effect
-Inception door effect
-
 Scary Dissonance Sound effects
 Reverse Reverb for Ghost Sounds
 Low pitch for Demon Sounds
@@ -520,6 +517,23 @@ D -> _ . .
 E -> .
 A -> . _
 D -> _ . .
+
+A realistic, cinematic horror shot.
+A dark, empty room at night. The camera is locked-off and static. In the far corner of the room, barely visible, is the silhouette of an old Indian woman sitting in a wheelchair. Her form is thin and fragile, wrapped in a faded saree.
+The room is almost completely dark, lit only by a dim, cold light leaking from an unseen source behind her, creating a strong silhouette with no facial details visible. Dust particles float slowly in the air.
+For the first 5 seconds, the woman remains completely still, unnaturally motionless as she enters the room. The silence is heavy.
+As she sits, her silhouette stretches and distorts subtly on the wall, emphasizing her unnatural presence. No jump scares. No sudden movements. Pure psychological horror.
+The camera does not move.
+Ultra-realistic lighting, natural motion, film-grain texture, shallow contrast, cinematic realism, horror movie atmosphere.
+
+A realistic, cinematic horror shot.
+A dark, empty room at night. The camera is locked-off and static. In the far corner of the room, barely visible, is the silhouette of an old Indian woman sitting in a wheelchair. Her form is thin and fragile, wrapped in a faded saree.
+The room is almost completely dark, lit only by a dim, cold light leaking from an unseen source behind her, creating a strong silhouette with no facial details visible. Dust particles float slowly in the air.
+For the first 5 seconds, the woman remains completely still, unnaturally motionless. The silence is heavy.
+After 5 seconds, she begins to stand up very slowly from the wheelchair. Her movements are stiff, deliberate, and unsettling — joints creak, posture slightly unnatural. The wheelchair does not move.
+As she rises, her silhouette stretches and distorts subtly on the wall, emphasizing her unnatural presence. No jump scares. No sudden movements. Pure psychological horror.
+The camera does not move. The scene ends as she reaches a fully upright position, still facing away from the camera, frozen in silence.
+Ultra-realistic lighting, natural motion, film-grain texture, shallow contrast, cinematic realism, horror movie atmosphere.
 
 Cinematic extreme close-up side view of a 4k hyper realistic single pale, withered old woman's hand. The hand is ghostly with visible veins and dark broken blunt nails. It slowly enters the frame from the edge, visibly trembling and shaking. After entering the frame, the fingers fold to form a pointed tapping gesture, and the extended index finger firmly taps an invisible vertical surface ONE TIME ONLY. Shot against a perfectly flat, evenly lit chroma key green background. Flat, shadowless lighting ensures no color spill or shadows on the green screen.
 

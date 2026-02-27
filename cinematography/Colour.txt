@@ -3,7 +3,13 @@ CORRECTION -
 GRADING -
 	Hue, Skin, Tone, LUTs, Blurs, Effects, Grains
 
-NODES - [Do Color Space Transform in the project management - Davinci YRGB Color Managed]
+NODES - 
+	[	Do Color Space Transform in the project management -		]
+	[	Color Science: DaVinci YRGB Color Managed			]
+	[	Color Processing Mode: HDR DaVinci Wide Gamut Intermediate	]
+	[	Otput Color Space: Rec.709 (Scene)				]
+
+	Right click on the clip -> Input Color Space -> Camera -> Profile
 	IDT
 		To DaVinci Wide Gamut DaVinci Intermediate
 	PRIMARY

@@ -7,8 +7,8 @@ LIGHT TYPES -
 
 --------------------------------------------------------------------------------------
 
-HIGH KEY LIGHT - Difference b/w light and dark is min (Happy)
-LOW KEY LIGHT  - Difference b/w light and dark is max (Intense)
+HIGH KEY LIGHT - Difference b/w light and dark is low (Happy)
+LOW KEY LIGHT  - Difference b/w light and dark is high (Intense)
 
 --------------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ LIGHT TYPES by POSITION -
 	Back light - Creates edge to separate subject from background
 	Edge lights/ Kickers - Edge of a particular area like ears
 	Hair lights - Edges of the hair
-	Catch/ Eye light - Reflection in the eyes to add life
+	Catch light - Reflection in the eyes to add life
 	Background lights - Lights that are contrasty to the foreground
 
 --------------------------------------------------------------------------------------

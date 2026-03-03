@@ -3,9 +3,17 @@ EXPOSURE - Tells how much light is exposed to the camera
 	Make sure the Exposure Meter is near zero - MM±0.0
 
 FRAME RATE -
-	Frames in one sec of video
-	24 FPS for normal video
-	60-120 FPS for Slow motion video
+	Number of Frames in One Sec of Video
+	Low = Choppy Playback due to less Frames
+	High = Sharper with no Motion blur due to more Frames
+	Normal Motion = 
+		Capture Rate == Presentation Rate
+	Slow Motion = 
+		Capture Rate > Presentation Rate = Over Cranking
+		Record in High FR + High SS -> Extend the duration = Slow Motion with Less-Motion Blur effect	
+	Choppy Motion = 
+		Capture Rate < Presentation Rate = Under Cranking
+		Step Printing = Record in Low FR + LOW SS -> Copy Frames to make it 24FPS = Jarring Dreamy High-Motion Blur Effect
 
 EXPOSURE TRIANGLE -
 	Shutter speed - Speed at which shutter opens and closes

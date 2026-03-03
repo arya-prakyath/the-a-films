@@ -11,8 +11,8 @@ EXPOSURE TRIANGLE -
 	Shutter speed - Speed at which shutter opens and closes
 		For normal video keep shutter speed double of FPS
 		Measured in Nth of a second. Eg - 1/50 per sec
-		Fast = Less motion blur - Less Light
-		Slow = More motion blur - More Light
+		High = Less motion blur - Less Light
+		Low = More motion blur - More Light
 	Aperture - How much light will enter the sensor
 		Measured in f-stops. Eg. f2.5
 		High = Shallower Dept of Field - More Light

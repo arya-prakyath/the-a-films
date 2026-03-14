@@ -1,25 +1,33 @@
 LIGHT TYPES -
-	Natural - Sunlight, Moonlight, Firelight, Thunder
+	Natural - Sunlight, Moonlight, Firelight, Candlelight, Thunder
 	Artificial - Manmade using electricity
-		Ambient - Lights sources on location (Street lamps)
-		Practical - Light sources in frame
-		Motivated - Source that is shown as the cause of light (Candle)
+		
+	Ambient - Lights sources on location (Street lamps)
+	Practical - Light sources in frame
+	Motivated - Source that is shown as the cause of light (Candle)
 
 --------------------------------------------------------------------------------------
 
-HIGH KEY LIGHT - Difference b/w light and dark is low (Happy)
-LOW KEY LIGHT  - Difference b/w light and dark is high (Intense)
+Contrast - Difference b/w brightest point and darkest point
 
+HIGH KEY LIGHT - Low  Contrast - Difference b/w light and dark is low (Happy)
+LOW KEY LIGHT  - High Contrast - Difference b/w light and dark is high (Intense)
+
+HARD LIGHT - Staight sharp light. Creates stronger shadows
+SOFT LIGHT - Diffused light. Creates spreaded softer shadows
+
+DUMB SIDE - Light falls on the side of the subject facing the camera
+SMART SIDE - Light falls on the side of the subject not facing the camera
+
+BOKEH - Out of focus points of light
 --------------------------------------------------------------------------------------
 
 LIGHT SOURCES -
 	Tungsten - Warm light
 	HMI - Cool/ Day light
-	Fluorescent - Tubelight
+	Fluorescent - Tube light
 	Kino Flo - Collection of tubes
 	LED - RGB/ colors
-
---------------------------------------------------------------------------------------
 
 LIGHT EQUIPMENTS -
 	Gels - Sheets to add color to light
@@ -29,7 +37,7 @@ LIGHT EQUIPMENTS -
 		Reflector, Bead board
 	Flags - To block the light
 		Black screens or boards, Barn doors on light
-	Egg crates - To direct light and prevent light in unwanted areas
+	Egg crates - To direct light and prevent light spillage in unwanted areas
 	Cookies - Boards with pattern to add texture (Window shape)
 
 --------------------------------------------------------------------------------------
@@ -56,7 +64,7 @@ LIGHTING TECHNIQUES -
 		Adds contrast and mystery
 	Overhead/ Top - Over head of subject hides eyes
 		Helpless or Lifeless
-	Under head - Under the face
+	Underlighting - Under the face
 		Adds horror and scare
 	For Dark Lighting -
 		Use Ceiling Bounce technique with a 6500K

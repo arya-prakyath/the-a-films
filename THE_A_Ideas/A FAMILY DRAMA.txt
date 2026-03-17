@@ -280,15 +280,20 @@ The Remembrance
 The Purpose
 	Audience think he will use an item for a purpose but he uses it for something else entirely
 	He cannot reach the ceiling to kill the bug with paper, he brings a chair not to climb but kill the bug with it
-The Obvious
-	Audience thing he is going to do something obvious but does something else
-	He takes out the phone to scan to pay but he calls someone and asks them to pay
 The Expectation
-	The audience expect something to happen but something else happens.
-	A guy calls to say their son ran away from school. Audience think the parents are on the other side but it is the son.
+	Audience expect he is going to do something obvious but does something else
+	He takes out the phone to scan to pay but he calls someone and asks them to pay
 The Misidentification
 	A character misidentifies another character
 	A police asks a guy if he saw a thief running, the guy says no, police goes away, the guy is the thief.
+The Misunderstanding
+	A woman says, "spoon please"
+	The man hugs her
+The Self Irony
+	A woman married to an old rich guy says who will marry for money
+The Sentence Completion
+	A man says "I feel like..." and makes a sad face like about to cry
+	The other person completes the sentence and says "...puking?"
 
 
 

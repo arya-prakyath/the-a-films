@@ -448,19 +448,19 @@ For torch end scene use a high frequency sound and use seizure POV
 1. The Opening ✔
 2. The Premise ✔
 3. The Son's Query ✔
-4. The Wife's Clarity ✔
-5. The Room's Terror ✔
+4. The Wife's Clarity --
+5. The Room's Terror -
 6. The Pills ✔
 7. The Wife's Confusion ✔
 8. The Cold Kitchen ✔
 9. The Ring of Delusion ✔
 10. The Room Strikes Back ✔
 11. The Jumps of the time ✔
-12. Take a Nap ✔
+12. The Short Nap -
 13. The Trippy Trip ✔
 14. The Doctor ✔
 15. The Return of the Pills ✔
-16. The TV and the Future ✔
+16. The TV to the Future ✔
 17. The Room Strikes Again ✔
 18. The Loop De Loop ✔
 19. The Son's Nightmare ✔

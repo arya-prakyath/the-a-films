@@ -456,9 +456,9 @@ For torch end scene use a high frequency sound and use seizure POV
 9. The Ring of Delusion ✔
 10. The Room Strikes Back ✔
 11. The Jumps of the time ✔
-12. The Short Nap -
+12. The Short Rest -
 13. The Trippy Trip ✔
-14. The Doctor ✔
+14. The Doctor from Hell ✔
 15. The Return of the Pills ✔
 16. The TV to the Future ✔
 17. The Room Strikes Again ✔
@@ -467,14 +467,14 @@ For torch end scene use a high frequency sound and use seizure POV
 20. The Hauntings in the Flash  -- Phone call
 21. The Scary Secret ✔
 22. The Unquenchable Thirst ✔
-23. The News from the Wife and the Son ✔
-24. The Loop of Void ✔
-25. The Ritual for the Stoned ✔
+23. The Evil Wife and the Kid ✔
+24. The Loop of the Void ✔
+25. The High and the Ritual ✔
 26. The Elixir of Tulasi ✔
 27. The Fracture of Reality ✔ 
-28. The Hope of the Netherworld ✔
+28. The Netherworld ✔
 29. The Shards of the Past ✔
-30. The Truth of Vyuthi
+30. The Truth of the Vyuthi ✔ 
 
 S5, S18, S20 - Flickering Shake Effect
 S5, S18, S20 - Time Step Effect

@@ -435,6 +435,8 @@ Low pitch for Demon Sounds
 Theremin Music
 ------------------------------------------------
 
+Use 8D fly sound somewhere to cause a distraction
+
 TODO - 
 Scene 13, 14 - Bomb>Room>Class>Sports OR Bomb>Class>Room>Trip
 Kriti tells she is prego
@@ -508,12 +510,15 @@ S29 - Dream Effect
 	(Giri) Neen innu bari gali al harado mathu aste ✔
 	(Mother) AS YAMADHOOTHA ✔
 
+Flashlight scene ideas -
+	A portrait on the wall of his family, He pans, It is now just a blank.
 
 Morse code for doctor tap -
 Y -> _ . _ _
 O -> _ _ _
 U -> . . _
 R -> . _ .
+E -> .
 D -> _ . .
 E -> .
 A -> . _
